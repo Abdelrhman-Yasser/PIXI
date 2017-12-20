@@ -1,2 +1,2 @@
 # PIXI
-It's desktop image processing application , it's Qt based .
+It's Qt based desktop image processing application .
